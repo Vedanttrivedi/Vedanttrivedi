@@ -1,13 +1,17 @@
 <h1 align="center">Hi 👋, I'm Vedant Trivedi</h1>
-<h3 align="center">A passionate Web and Android developer from India</h3>
+<h3 align="center">A passionate Web and Flutter developer from India</h3>
 
 - 🔭 I’m currently working on **PHP and flutter projects**
 
 - 🌱 I’m currently learning **PHP,Cloud Computing, Information Systems Security**
 
-- 👯 I’m looking to collaborate on **On awesome backend and android development projects**
+- 👯 I’m looking to collaborate **On awesome backend and android development projects**
 
 - 💬 Ask me about **Flutter,Django,Java,PHP**
+
+- 📫 How to reach me **vedtrive@gmail.com**
+
+- 📄 Know about my experiences [at present part of Google Developer Student Club of Daiict]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
