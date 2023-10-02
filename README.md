@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on PHP and flutter projects<br><br>🌱 I’m currently learning Cloud Computing, Information Systems Security<br><br>👯 I’m looking to collaborate On awesome backend and android development projects<br><br>💬 Ask me about Flutter,Django,Java,PHP
+🔭 I’m currently working on Java,Python and flutter projects<br><br>🌱 I’m currently learning Cloud Computing, Information Systems Security<br><br>👯 I’m looking to collaborate On awesome backend and android development projects<br><br>💬 Ask me about Flutter,Django,Java,Python
 
 
 ## 🌐 Socials:
