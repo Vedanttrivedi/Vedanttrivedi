@@ -2,8 +2,8 @@
 
 🚀 Currently diving into AWS, Java, Python Backend, and Flutter projects.<br><br>
 🌱 On a journey to master Cloud Computing and Information Systems Security.<br><br>
-🤝 Open to collaborating on innovative backend,DevOps,Backend Developement and Android development projects.<br><br>
-💬 Ready to chat about Azure,AWS,Flutter, Django, Java, Python, and DevOps.
+🤝 Open to collaborating on innovative DevOps,Backend Developement and Android development projects.<br><br>
+💬 Ready to chat about Azure, AWS, Flutter, Django, Java, Python, and DevOps.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vedant-trivedi-95b7b2169)
